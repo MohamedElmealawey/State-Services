@@ -38,7 +38,7 @@ window.addEventListener("scroll",()=>{
 window.addEventListener("load",()=>{
     setTimeout(() => {
         document.querySelector(".loader").classList.add("loader-hidden");
-    }, 1800);
+    }, 1200);
 })
 
 
